@@ -3276,71 +3276,7 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL
 https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="167" tvg-name="Radio Vida Curico" tvg-logo="https://www.m3u.cl/logo/167_Radio_Vida_Curico.png" group-title="RELIGIOSOS", Radio Vida Curico | CL
 https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="571" tvg-name="Rede Vida" tvg-logo="https://www.m3u.cl/logo/571_Rede_Vida.jpg" group-title="RELIGIOSOS", Rede Vida | BR
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="191" tvg-name="Renuevo TV" tvg-logo="https://www.m3u.cl/logo/191_Renuevo_TV.png" group-title="RELIGIOSOS", Renuevo TV | US
-https://5bff1bf18a887.streamlock.net/rtvla/rtvla/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="863" tvg-name="Restauracion TV Houston" tvg-logo="https://www.m3u.cl/logo/863_Restauracion_TV_Houston.png" group-title="RELIGIOSOS", Restauracion TV Houston | US
-https://2-fss-2.themediacdn.com/pl_138/amlst:200836-1357134/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="351" tvg-name="Restaurando Vidas TV" tvg-logo="https://www.m3u.cl/logo/351_Restaurando_Vidas_TV.png" group-title="RELIGIOSOS", Restaurando Vidas TV | CL
-http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="971" tvg-name="Restaurando Vidas TV Internacional" tvg-logo="https://www.m3u.cl/logo/971_Restaurando_Vidas_TV_Internacional.png" group-title="RELIGIOSOS", Restaurando Vidas TV Internacional | CL
-http://v4.tustreaming.cl:80/restaurandovidastv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="180" tvg-name="RVida TV" tvg-logo="https://www.m3u.cl/logo/180_RVida_TV.png" group-title="RELIGIOSOS", RVida TV | DO
-https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="178" tvg-name="Salvacion TV" tvg-logo="https://www.m3u.cl/logo/178_Salvacion_TV.png" group-title="RELIGIOSOS", Salvacion TV | PR
-https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1003" tvg-name="Sublime Gracia TV" tvg-logo="https://www.m3u.cl/logo/1003_Sublime_Gracia_TV.png" group-title="RELIGIOSOS", Sublime Gracia TV | AR
-https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="187" tvg-name="Tele Familia" tvg-logo="https://www.m3u.cl/logo/187_Tele_Familia.png" group-title="RELIGIOSOS", Tele Familia | CO
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="169" tvg-name="Televida HD" tvg-logo="https://www.m3u.cl/logo/169_Televida_HD.png" group-title="RELIGIOSOS", Televida HD | CL
-https://tls-cl.cdnz.cl/televida/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="168" tvg-name="TNE" tvg-logo="https://www.m3u.cl/logo/168_TNE.png" group-title="RELIGIOSOS", TNE | CL
-https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="570" tvg-name="TV Aparecida" tvg-logo="https://www.m3u.cl/logo/570_TV_Aparecida.jpg" group-title="RELIGIOSOS", TV Aparecida | BR
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="841" tvg-name="TV CRET" tvg-logo="https://www.m3u.cl/logo/841_TV_CRET.jpg" group-title="RELIGIOSOS", TV CRET | SV
-https://radiocret.net:8082/hls/tvcret.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="537" tvg-name="TV Evangelizar" tvg-logo="https://www.m3u.cl/logo/537_TV_Evangelizar.png" group-title="RELIGIOSOS", TV Evangelizar | BR
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="181" tvg-name="TV Gracia" tvg-logo="https://www.m3u.cl/logo/181_TV_Gracia.png" group-title="RELIGIOSOS", TV Gracia | CO
-https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="566" tvg-name="TV Rede Gospel" tvg-logo="https://www.m3u.cl/logo/566_TV_Rede_Gospel.jpg" group-title="RELIGIOSOS", TV Rede Gospel | BR
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="175" tvg-name="TV Unidos" tvg-logo="https://www.m3u.cl/logo/175_TV_Unidos.png" group-title="RELIGIOSOS", TV Unidos | SV
-https://tvunidos-hls.secdn.net/tvunidos-live/play/mp4:tvunidos/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="563" tvg-name="TV Universal" tvg-logo="https://www.m3u.cl/logo/563_TV_Universal.jpg" group-title="RELIGIOSOS", TV Universal | BR
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="190" tvg-name="Urbancris TV" tvg-logo="https://www.m3u.cl/logo/190_Urbancris_TV.png" group-title="RELIGIOSOS", Urbancris TV | DO
-https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="193" tvg-name="Urbancrist2 Worship" tvg-logo="https://www.m3u.cl/logo/193_Urbancrist2_Worship.png" group-title="RELIGIOSOS", Urbancrist2 Worship | DO
-https://5790d294af2dc.streamlock.net:443/8090/8090/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="867" tvg-name="Victoria TV Bakersfield" tvg-logo="https://www.m3u.cl/logo/867_Victoria_TV_Bakersfield.jpg" group-title="RELIGIOSOS", Victoria TV Bakersfield | US
-https://videohd.live:19360/8062/8062.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="843" tvg-name="Vida Television" tvg-logo="https://www.m3u.cl/logo/843_Vida_Television.png" group-title="RELIGIOSOS", Vida Television | US
-https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="174" tvg-name="Voz de Poder Televisión" tvg-logo="https://www.m3u.cl/logo/174_Voz_de_Poder_Television.png" group-title="RELIGIOSOS", Voz de Poder Televisión | CL
-https://v2.tustreaming.cl/vozdepoder/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="846" tvg-name="XTO TV" tvg-logo="https://www.m3u.cl/logo/846_XTO_TV.png" group-title="RELIGIOSOS", XTO TV | BO
-https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://www.m3u.cl/logo/925_Nubeh_TV.png" group-title="RELIGIOSOS", Nubeh TV | VE
-https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="950" tvg-name="MCRT Cristiana" tvg-logo="https://www.m3u.cl/logo/950_MCRT_Cristiana.png" group-title="RELIGIOSOS", MCRT Cristiana | CA
-https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:1,-TEST CANALES-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/COq8Rh1.png" group-title="TEST CANALES",•●★-- 📺 TEST CANALES 📺 --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",canal musica
-https://stmv1.srvstm.com/bruno4723/bruno4723/chunklist_w1139996119.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",SONY SPORTS
-http://alllivesportslinks.myftp.biz:80/hls/sonyten1.m3u8?mvk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGuiZ29.png" group-title="TEST CANALES",BT Sports
-https://16live00.akamaized.net/BTSPORTS2/index.m3u8?mvk
-
+#EXTINF:-1 tvg-id="571" tvg-name="Rede Vida" tvg-logo="https://www.m3u.cl/logo/571_Rede_Vi
 
 
 
